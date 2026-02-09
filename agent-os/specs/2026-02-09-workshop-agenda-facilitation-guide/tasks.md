@@ -89,32 +89,33 @@ Workshop Duration: 8 hours (9:00 AM - 5:00 PM)
 
 #### Task Group 3: Session-by-Session Facilitation Instructions
 **Dependencies:** Task Groups 1, 2
+**Status:** COMPLETED
 
-- [ ] 3.0 Create detailed facilitation guide for all sessions
-  - [ ] 3.1 Document morning presentation block facilitation
+- [x] 3.0 Create detailed facilitation guide for all sessions
+  - [x] 3.1 Document morning presentation block facilitation
     - Write exact timing for each foundational presentation segment
     - Create transition scripts between presentations
     - Develop discussion bridges connecting presentations to activities
     - Include Q&A management guidance
     - Add presenter notes expectations and key talking points
     - Specify depth adjustment guidance based on participant technical level
-  - [ ] 3.2 Write Developer Hub mid-day presentation facilitation
+  - [x] 3.2 Write Developer Hub mid-day presentation facilitation
     - Create demonstration approach guidance (no hands-on labs)
     - Develop talking points for Red Hat Developer Hub and OpenShift Dev Spaces
     - Write transition script from morning activities
     - Include interactive demonstration engagement techniques
-  - [ ] 3.3 Document closing synthesis session facilitation
+  - [x] 3.3 Document closing synthesis session facilitation
     - Create framework for reviewing day's outputs
     - Write prompts for connecting activities to action items
     - Develop next steps discussion guidance
     - Include closing remarks template
     - Add participant feedback collection approach
-  - [ ] 3.4 Create pre-session setup checklists for each segment
+  - [x] 3.4 Create pre-session setup checklists for each segment
     - List materials needed for each session
     - Specify room configuration requirements
     - Include technology setup steps (projector, slides, timer)
     - Add last-minute preparation reminders
-  - [ ] 3.5 Develop troubleshooting tips for common challenges
+  - [x] 3.5 Develop troubleshooting tips for common challenges
     - Address timing challenges (sessions running long/short)
     - Include engagement strategies for quiet participants
     - Add techniques for managing dominant voices
@@ -122,11 +123,13 @@ Workshop Duration: 8 hours (9:00 AM - 5:00 PM)
     - Include technical troubleshooting (projector issues, etc.)
 
 **Acceptance Criteria:**
-- Every session has exact timing and detailed instructions
-- Transition scripts provided for all session changes
-- Pre-session checklists complete for all segments
-- Troubleshooting guidance addresses common facilitation challenges
-- Presentation facilitation aligns with existing Google Slides materials
+- [x] Every session has exact timing and detailed instructions
+- [x] Transition scripts provided for all session changes
+- [x] Pre-session checklists complete for all segments
+- [x] Troubleshooting guidance addresses common facilitation challenges
+- [x] Presentation facilitation aligns with existing Google Slides materials
+
+**Deliverable:** `/docs/facilitation-guide-core-sessions.md`
 
 ### Interactive Activities Design
 
@@ -308,7 +311,7 @@ Recommended implementation sequence:
 2. **Participant-Facing Documents** (Task Group 2) - COMPLETED
    - Create clean participant agenda early to establish participant-facing content baseline
 
-3. **Core Facilitation Content** (Task Group 3)
+3. **Core Facilitation Content** (Task Group 3) - COMPLETED
    - Build session-by-session facilitation instructions for all presentation blocks
 
 4. **Interactive Activities Design** (Task Group 4)
