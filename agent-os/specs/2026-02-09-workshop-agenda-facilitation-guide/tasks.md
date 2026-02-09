@@ -46,7 +46,7 @@ Workshop Duration: 8 hours (9:00 AM - 5:00 PM)
 - [x] All breaks and buffers explicitly scheduled
 - [x] 2-3 additional topic suggestions documented with rationale
 
-**Deliverable:** `/agent-os/specs/2026-02-09-workshop-agenda-facilitation-guide/planning/workshop-structure.md`
+**Deliverable:** `/docs/workshop-structure.md`
 
 ### Participant-Facing Documents
 
