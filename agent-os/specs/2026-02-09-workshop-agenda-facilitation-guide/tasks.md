@@ -135,63 +135,69 @@ Workshop Duration: 8 hours (9:00 AM - 5:00 PM)
 
 #### Task Group 4: Major Deliverable-Creation Activities Facilitation
 **Dependencies:** Task Group 3
+**Status:** COMPLETED
 
-- [ ] 4.0 Design complete facilitation guides for three major activities
-  - [ ] 4.1 Create OKRs/Goals Development Activity facilitation guide
+- [x] 4.0 Design complete facilitation guides for four major activities
+  - [x] 4.1 Create OKRs/Goals Development Activity facilitation guide
     - Write complete activity overview and learning objectives
     - Develop timing breakdown (introduction: 5 min, individual reflection: 10 min, small group work: 25 min, sharing: 20 min)
     - Create materials list (flip charts, markers, worksheets)
     - Design output format template for objectives and key results
-    - Write group formation instructions (count off by topic interest)
-    - Develop discussion prompt bank (5-8 questions for facilitation)
-    - Create example OKRs to guide participants
+    - Write group formation instructions (topic-based grouping by area of focus)
+    - Develop discussion prompt bank (8 questions for facilitation)
+    - Create example OKRs to guide participants (4 complete example sets)
     - Write sharing/synthesis approach (report-outs format)
     - Include success criteria and expected outputs
     - Add photo capture guidance for documenting flip chart outputs
     - Specify connection to preceding presentation content
-  - [ ] 4.2 Create Platform Requirements Gathering Activity facilitation guide
+  - [x] 4.2 Create Platform Requirements Gathering Activity facilitation guide
     - Write complete activity overview and learning objectives
-    - Develop timing breakdown (introduction: 5 min, pain points brainstorm: 15 min, desired capabilities: 15 min, prioritization: 15 min, sharing: 15 min)
-    - Create materials list (post-it notes in multiple colors, wall space, markers)
+    - Develop timing breakdown (introduction: 5 min, pain points brainstorm: 15 min, desired capabilities: 15 min, affinity mapping: 15 min, prioritization and sharing: 10 min)
+    - Create materials list (post-it notes in multiple colors, wall space, fine-tip markers, dot stickers)
     - Design output format template for requirements and priorities
-    - Write group formation instructions (topic-based grouping)
-    - Develop discussion prompt bank (5-8 questions for facilitation)
-    - Create example requirements to guide participants
-    - Write affinity mapping and clustering facilitation instructions
+    - Write group formation instructions (full group collaborative exercise)
+    - Develop discussion prompt bank (8 questions for facilitation)
+    - Create example requirements to guide participants (pain points and desired capabilities)
+    - Write detailed affinity mapping and clustering facilitation instructions
     - Include success criteria and expected outputs
-    - Add photo capture guidance for post-it note clusters
+    - Add comprehensive photo capture guidance for post-it note clusters
     - Specify connection to preceding presentation content
-  - [ ] 4.3 Create Marketing Strategy Activity facilitation guide
+  - [x] 4.3 Create Marketing Strategy Activity facilitation guide
     - Write complete activity overview and learning objectives
-    - Develop timing breakdown (introduction: 5 min, channel brainstorm: 15 min, messaging development: 20 min, launch planning: 15 min, sharing: 15 min)
-    - Create materials list (flip charts, post-it notes, markers)
+    - Develop timing breakdown (introduction: 5 min, stakeholder mapping: 15 min, messaging development: 20 min, launch planning: 15 min, gallery walk: 15 min)
+    - Create materials list (flip charts, post-it notes, markers, template worksheets)
     - Design output format template for communication strategy
     - Write group formation instructions (cross-functional mixing)
-    - Develop discussion prompt bank (5-8 questions for facilitation)
-    - Create example marketing strategies to guide participants
+    - Develop discussion prompt bank (8 questions for facilitation)
+    - Create example marketing strategies to guide participants (3 complete examples)
     - Write sharing approach (gallery walk format)
     - Include success criteria and expected outputs
     - Add photo capture guidance for all analog outputs
     - Specify connection to preceding presentation content
-  - [ ] 4.4 Create Future-State Visioning Exercise facilitation guide
+    - Note: Documented as optional extension activity (not in current 8-hour schedule)
+  - [x] 4.4 Create Future-State Visioning Exercise facilitation guide
     - Write complete activity overview and learning objectives (based on IMG_1925.png)
-    - Develop timing breakdown (introduction: 5 min, brainstorming: 15 min, creation: 10 min, sharing: 15 min)
+    - Develop timing breakdown (introduction: 5 min, individual reflection: 5 min, group brainstorming and creation: 15 min, sharing and gallery walk: 20 min, debrief: 5 min)
     - Provide headline format template ("DAANG! [Company] [Achievement headline]")
     - Create bulleted outcome list framework (technical, cultural, business results)
-    - List example outcomes to inspire participants (faster onboarding, true CI/CD, multiple prod pushes per day, roll forward not back, open source contributions, etc.)
-    - Write group formation instructions for small groups
-    - Develop debrief questions to connect vision to actionable next steps
+    - List example outcomes to inspire participants (faster onboarding, true CI/CD, multiple prod pushes per day, roll forward not back, open source contributions, standardized frameworks, self-service developer products, etc.)
+    - Write group formation instructions for small groups (3-4 people per group)
+    - Develop debrief questions to connect vision to actionable next steps (8 discussion prompts)
     - Include positioning guidance (early in workshop to energize and motivate)
     - Add success criteria and expected outputs
-    - Specify materials needed (flip charts, thick markers)
+    - Specify materials needed (flip charts, thick markers, masking tape, star stickers)
 
 **Acceptance Criteria:**
-- Complete facilitation guides for all four major activities (OKRs, Requirements, Marketing, Future-State Vision)
-- Each activity includes exact timing breakdown, materials list, and output templates
-- Discussion prompt banks contain 5-8 questions per activity
-- Example outputs provided for each activity to guide facilitators
-- Photo capture guidance specified for all analog outputs
-- Clear connection to presentation content documented
+- [x] Complete facilitation guides for all four major activities (Future-State Vision, OKRs, Requirements, Marketing Strategy)
+- [x] Each activity includes exact timing breakdown, materials list, and output templates
+- [x] Discussion prompt banks contain 8 questions per activity
+- [x] Example outputs provided for each activity to guide facilitators
+- [x] Photo capture guidance specified for all analog outputs
+- [x] Clear connection to presentation content documented
+- [x] Cross-activity facilitation techniques section included
+- [x] Comprehensive materials master checklist provided
+
+**Deliverable:** `/docs/facilitation-guide-activities.md`
 
 ### Physical Environment and Materials
 
@@ -314,7 +320,7 @@ Recommended implementation sequence:
 3. **Core Facilitation Content** (Task Group 3) - COMPLETED
    - Build session-by-session facilitation instructions for all presentation blocks
 
-4. **Interactive Activities Design** (Task Group 4)
+4. **Interactive Activities Design** (Task Group 4) - COMPLETED
    - Develop complete facilitation guides for major deliverable-creation activities
 
 5. **Physical Environment and Materials** (Task Group 5)
