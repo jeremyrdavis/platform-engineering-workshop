@@ -1,6 +1,6 @@
 # Product Roadmap
 
-1. [ ] Workshop Agenda and Facilitation Guide — Create comprehensive facilitator guide with timing, transitions, and talking points for each session, plus detailed agenda participants receive showing all presentations and activities throughout the day. `S`
+1. [x] Workshop Agenda and Facilitation Guide — Create comprehensive facilitator guide with timing, transitions, and talking points for each session, plus detailed agenda participants receive showing all presentations and activities throughout the day. `S`
 
 2. [ ] Platform Engineering Fundamentals Presentation — Develop core presentation introducing platform engineering principles, the flywheel effect, platform team mission, and how platforms accelerate development teams, with real-world examples relevant to OpenShift environments. `S`
 
